@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1466045679230" clover="3.2.0">
+	<project timestamp="1466045679230"  name="All Files" >
+		<metrics statements="11"  coveredstatements="11"  conditionals="33"  coveredconditionals="20"  methods="12"  coveredmethods="12"  elements="56"  coveredelements="43"  complexity="0"  packages="1"  files="2"  classes="2"  loc="30"  ncloc="30" />
+		<package name="js" >
+			<metrics statements="11"  coveredstatements="11"  conditionals="33"  coveredconditionals="20"  methods="12"  coveredmethods="12" />
+			<file name="CheckboxWithLabel.js"  path="/Users/emma/Code/react-typescript-starter/js/CheckboxWithLabel.js" >
+				<metrics statements="8"  coveredstatements="8"  conditionals="33"  coveredconditionals="20"  methods="11"  coveredmethods="11" />
+				<line num="1"  count="2"  type="cond"  truecount="18"  falsecount="13" />
+				<line num="3"  count="1"  type="stmt" />
+				<line num="5"  count="1"  type="stmt" />
+				<line num="7"  count="1"  type="stmt" />
+				<line num="11"  count="1"  type="stmt" />
+				<line num="15"  count="1"  type="stmt" />
+				<line num="19"  count="2"  type="stmt" />
+				<line num="26"  count="1"  type="cond"  truecount="2"  falsecount="0" />
+			</file>
+			<file name="sum.js"  path="/Users/emma/Code/react-typescript-starter/js/sum.js" >
+				<metrics statements="3"  coveredstatements="3"  conditionals="0"  coveredconditionals="0"  methods="1"  coveredmethods="1" />
+				<line num="1"  count="1"  type="stmt" />
+				<line num="2"  count="1"  type="stmt" />
+				<line num="4"  count="1"  type="stmt" />
+			</file>
+		</package>
+	</project>
+</coverage>

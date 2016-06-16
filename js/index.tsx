@@ -1,19 +1,12 @@
 /// <reference path='../typings/react/react.d.ts' />
 /// <reference path='../typings/react/react-dom.d.ts' />
+/// <reference path='../node_modules/immutable/dist/immutable.d.ts'/>
 
 import * as React from 'react';
 import * as ReactDOM from 'react-dom';
+import * as Immutable from 'immutable';
 
-interface HelloProps {
-  compiler: string;
-  framework: string;
-}
-
-class App extends React.Component<HelloProps, {}> {
-  render () {
-    return <p>Hello from {this.props.compiler} &amp; {this.props.framework}!</p>;
-  }
-}
+import { HelloProps, App } from './hello';
 
 ReactDOM.render(
   <App compiler='Typescript' framework='React' />,
