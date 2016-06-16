@@ -1,11 +1,11 @@
 # React-Typescript Starter
 
-[![Dependencies](https://david-dm.org/emmaramirez/react-typescript-starter.svg)]
+![Dependencies](https://david-dm.org/emmaramirez/react-typescript-starter.svg)
 [![Build Status](https://travis-ci.org/EmmaRamirez/react-typescript-starter.svg?branch=master)](https://travis-ci.org/EmmaRamirez/react-typescript-starter)
 
 **WIP**
 
-This is a starer for projects that use React & Typescript.
+An opinionated starter that enforces best practices for React & Typescript.
 
 ## Features
 
