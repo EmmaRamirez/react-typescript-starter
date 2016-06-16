@@ -11,7 +11,7 @@
     "build": "webpack -p"
   },
   "keywords": [],
-  "author": "",
+  "author": "Emma Ramirez <emma@npmjs.com> (http://emmaramirez.me)",
   "license": "MIT",
   "dependencies": {
     "babel-loader": "^6.2.4",
