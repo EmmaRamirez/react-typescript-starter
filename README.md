@@ -18,4 +18,5 @@ An opinionated starter that enforces best practices for React & Typescript.
 ## Documentation
 
 ## License
-MIT
+
+This project uses the [MIT license](/LICENSE.md)
