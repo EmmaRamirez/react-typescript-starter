@@ -1,0 +1,12 @@
+{
+  "extends": "tslint:latest",
+  "rules": {
+    "no-constructor-vars": true,
+    "curly": true,
+    "no-unused-variable": false,
+    "quotemark": ["single", "jsx-double"],
+    "no-reference": false
+  },
+  "rulesDirectory": [
+  ]
+}

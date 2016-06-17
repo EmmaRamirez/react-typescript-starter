@@ -49,8 +49,10 @@
     "mocha": "^2.5.3",
     "react-addons-test-utils": "^15.1.0",
     "redux-devtools": "^3.3.1",
+    "sanitize.css": "^3.3.0",
     "should": "^9.0.2",
-    "ts-loader": "^0.8.2"
+    "ts-loader": "^0.8.2",
+    "tslint": "^3.11.0"
   },
   "jest": {
     "unmockedModulePathPatterns": [
