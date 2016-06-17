@@ -36,6 +36,7 @@
     "webpack": "^1.13.1"
   },
   "devDependencies": {
+    "autoprefixer": "^6.3.6",
     "babel-core": "^6.9.1",
     "babel-jest": "^12.1.0",
     "babel-loader": "^6.2.4",
@@ -47,6 +48,10 @@
     "expect": "^1.20.1",
     "jest-cli": "^12.1.1",
     "mocha": "^2.5.3",
+    "postcss": "^5.0.21",
+    "postcss-loader": "^0.9.1",
+    "poststylus": "^0.2.3",
+    "precss": "^1.4.0",
     "react-addons-test-utils": "^15.1.0",
     "redux-devtools": "^3.3.1",
     "sanitize.css": "^3.3.0",
