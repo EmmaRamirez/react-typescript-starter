@@ -8,7 +8,8 @@
     "test:output": "jest --json",
     "test:watch": "jest --watch",
     "dev": "webpack -d --watch",
-    "build": "webpack -p"
+    "build": "webpack -p",
+    "serve": "webpack-dev-server --watch"
   },
   "keywords": [],
   "author": "Emma Ramirez <emma@npmjs.com> (http://emmaramirez.me)",
