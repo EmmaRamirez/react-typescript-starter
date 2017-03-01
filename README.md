@@ -1,5 +1,7 @@
 # React-Typescript Starter
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/EmmaRamirez/react-typescript-starter.svg)](https://greenkeeper.io/)
+
 ![Dependencies](https://david-dm.org/emmaramirez/react-typescript-starter.svg)
 [![Build Status](https://travis-ci.org/EmmaRamirez/react-typescript-starter.svg?branch=master)](https://travis-ci.org/EmmaRamirez/react-typescript-starter)
 [![Code Climate](https://codeclimate.com/github/EmmaRamirez/react-typescript-starter/badges/gpa.svg)](https://codeclimate.com/github/EmmaRamirez/react-typescript-starter)
